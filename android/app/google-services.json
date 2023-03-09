@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "867134525839",
+    "project_id": "servicenow-6a2ef",
+    "storage_bucket": "servicenow-6a2ef.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:867134525839:android:5cdcd9bc6b1694e45bbbfa",
+        "android_client_info": {
+          "package_name": "com.example.untitled"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "867134525839-2ij423ikios0bh7cp3okdfdhgrc0ruor.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpyPzGdVAUx0zJrecPHCY-yteVSFl4y8E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "867134525839-2ij423ikios0bh7cp3okdfdhgrc0ruor.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
